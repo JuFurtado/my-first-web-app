@@ -5,6 +5,37 @@ div {
   }
   
   h1 {
-    text-align: center;
-    color: white;
+    text-align: left;
+    color: red;
+    font-size: 50pt;
+    font-family: 'Gill Sans';
+    padding-left: 20%;
   }
+  
+  h2 {
+    text-align: left;
+    color: black;
+    font-size: 18pt;
+    font-family: 'Gill Sans';
+    font-weight: normal;
+    padding-left: 20%;
+  }
+
+  p {
+    width: 900px;
+    text-align: center;
+    padding-left: 20%;
+    padding-top: 10%;
+    font-size: 25pt;
+    font-family: 'Gill Sans';
+
+    }
+   
+}
+
+div {
+
+    background-color: #573782;
+    height: 400px;
+    width: 1140px;
+}
